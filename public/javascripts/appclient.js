@@ -1,7 +1,7 @@
 // Filename: appclient.js
-// Student: Julio Vinicius
-// StudentId: 123456789
-// Date: Jun 02, 2022
+// Student: Christian Aduna
+// StudentId: 301250889
+// Date: 29 October 2022
 
 console.log('app script is working.');
 
